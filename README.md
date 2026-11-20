@@ -94,14 +94,14 @@ Patterns across the full review: hand outlines often stopped at the wrist in poo
 ## Run it yourself
 
 1. Download the dataset from Roboflow: [LINK](https://app.roboflow.com/marys-workspace-3wg3d/egocentric-dishwashing-lagos/1/rename)
-2. Open `notebooks/egocentric_dishwashing_train_v1.ipynb` in Google Colab with a T4 GPU.
+2. Open `notebook/egocentric_dishwashing_train_v1.ipynb` in Google Colab with a T4 GPU.
 3. Upload the dataset zip and run the cells top to bottom.
 
 ## Repository
 
 ```
 README.md
-notebooks/egocentric_dishwashing_train_v1.ipynb
+notebook/egocentric_dishwashing_train_v1.ipynb
 results/   training charts, confusion matrix, sample predictions
 ```
 
